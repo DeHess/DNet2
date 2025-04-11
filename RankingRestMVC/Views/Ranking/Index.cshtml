@@ -1,0 +1,25 @@
+﻿@model List<RankingRestMVC.Models.Competitor>
+
+@{
+    ViewData["Title"] = "Rangliste";
+}
+
+<h2>🏃‍♂️ Marathon-Rangliste</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Zeit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var competitor in Model)
+        {
+            <tr>
+                <td>@competitor.Name</td>
+                <td>@competitor.Time</td>
+            </tr>
+        }
+    </tbody>
+</table>
