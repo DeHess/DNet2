@@ -1,0 +1,16 @@
+﻿<Window x:Class="URLTesterWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:URLTesterWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="GetURL" HorizontalAlignment="Left" Margin="66,50,0,0" VerticalAlignment="Top" Height="42" Width="123" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,50,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="284" Height="42" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Size" HorizontalAlignment="Left" Margin="66,150,0,0" VerticalAlignment="Top" Width="91"/>
+        <Label Content="Time" HorizontalAlignment="Left" Margin="285,150,0,0" VerticalAlignment="Top" Width="91"/>
+
+    </Grid>
+</Window>

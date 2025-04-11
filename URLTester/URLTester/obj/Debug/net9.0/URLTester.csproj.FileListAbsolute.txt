@@ -1,0 +1,15 @@
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\bin\Debug\net9.0\URLTester.exe
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\bin\Debug\net9.0\URLTester.deps.json
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\bin\Debug\net9.0\URLTester.runtimeconfig.json
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\bin\Debug\net9.0\URLTester.dll
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\bin\Debug\net9.0\URLTester.pdb
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\URLTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\URLTester.AssemblyInfoInputs.cache
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\URLTester.AssemblyInfo.cs
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\URLTester.csproj.CoreCompileInputs.cache
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\URLTester.sourcelink.json
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\URLTester.dll
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\refint\URLTester.dll
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\URLTester.pdb
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\URLTester.genruntimeconfig.cache
+C:\Users\nathh\Documents\GitHub\DNet2\URLTester\URLTester\obj\Debug\net9.0\ref\URLTester.dll

@@ -1,0 +1,4 @@
+C:\Users\nathh\Documents\GitHub\DNet2\URLTesterWPF\URLTesterWPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\nathh\Documents\GitHub\DNet2\URLTesterWPF\URLTesterWPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\nathh\Documents\GitHub\DNet2\URLTesterWPF\URLTesterWPF\obj\Debug\net9.0-windows\URLTesterWPF_MarkupCompile.cache
+C:\Users\nathh\Documents\GitHub\DNet2\URLTesterWPF\URLTesterWPF\obj\Debug\net9.0-windows\URLTesterWPF_MarkupCompile.lref
