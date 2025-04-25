@@ -1,0 +1,57 @@
+﻿@page "/competitors"
+@attribute [StreamRendering]
+
+<PageTitle>Competitors</PageTitle>
+
+<h1>Competitors</h1>
+
+<p>This component demonstrates showing random competitors.</p>
+
+@if (competitors == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var competitor in competitors)
+            {
+                <tr>
+                    <td>@competitor.Name</td>
+                    <td>@competitor.Time</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Competitor[]? competitors;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Simulate asynchronous loading to demonstrate streaming rendering
+        await Task.Delay(500);
+
+        var names = new[] { "Alex", "Jordan", "Taylor", "Morgan", "Riley", "Skyler", "Casey", "Jamie", "Quinn", "Avery" };
+        competitors = Enumerable.Range(1, 5).Select(index => new Competitor
+            {
+                Name = names[Random.Shared.Next(names.Length)],
+                Time = $"{Random.Shared.Next(10, 60)}:{Random.Shared.Next(0, 60):D2}"
+            }).ToArray();
+    }
+
+    private class Competitor
+    {
+        public required string Name { get; set; }
+        public required string Time { get; set; }
+    }
+}
+
