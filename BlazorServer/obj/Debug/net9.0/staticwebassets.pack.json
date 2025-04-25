@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
+      "Id": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\data\\competitors.json",
+      "PackagePath": "staticwebassets\\data\\competitors.json"
+    },
+    {
       "Id": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },

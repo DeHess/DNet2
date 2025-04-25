@@ -78,3 +78,5 @@ C:\Users\nathh\Documents\GitHub\DNet2\BlazorServer\obj\Debug\net9.0\refint\Blazo
 C:\Users\nathh\Documents\GitHub\DNet2\BlazorServer\obj\Debug\net9.0\BlazorServer.pdb
 C:\Users\nathh\Documents\GitHub\DNet2\BlazorServer\obj\Debug\net9.0\BlazorServer.genruntimeconfig.cache
 C:\Users\nathh\Documents\GitHub\DNet2\BlazorServer\obj\Debug\net9.0\ref\BlazorServer.dll
+C:\Users\nathh\Documents\GitHub\DNet2\BlazorServer\bin\Debug\net9.0\Model\competitors.json
+C:\Users\nathh\Documents\GitHub\DNet2\BlazorServer\obj\Debug\net9.0\compressed\qk59m25ly4-gvzxxikb2o.gz

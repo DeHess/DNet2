@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gso1rSkLGRIEdgwWMo8niMBdpGcujLzWYhbMfBTWEpg=",
+  "Hash": "VvcoOsrwy2z5y2rU8hcEB2fG8L/XNI1zFDl4kduWH/I=",
   "Source": "BlazorServer",
   "BasePath": "_content/BlazorServer",
   "Mode": "Default",
@@ -773,6 +773,27 @@
       "OriginalItemSpec": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+      "Identity": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\obj\\Debug\\net9.0\\compressed\\qk59m25ly4-gvzxxikb2o.gz",
+      "SourceId": "BlazorServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorServer",
+      "RelativePath": "data/competitors#[.{fingerprint=gvzxxikb2o}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\data\\competitors.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oxd9naud5g",
+      "Integrity": "zK1w1z19KNVglP7ZY+k7UWvlTSdWKogkheKQOSoDXAA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\data\\competitors.json"
+    },
+    {
       "Identity": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\obj\\Debug\\net9.0\\compressed\\qynf1lgjid-493y06b0oq.gz",
       "SourceId": "BlazorServer",
       "SourceType": "Discovered",
@@ -1065,6 +1086,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\data\\competitors.json",
+      "SourceId": "BlazorServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\",
+      "BasePath": "_content/BlazorServer",
+      "RelativePath": "data/competitors#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gvzxxikb2o",
+      "Integrity": "3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\competitors.json"
     },
     {
       "Identity": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\favicon.png",
@@ -2904,6 +2946,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZfQNeHX1RjtSpMhNijDFu0APpfAlrZYwf1aCPsTPEik="
+        }
+      ]
+    },
+    {
+      "Route": "data/competitors.gvzxxikb2o.json",
+      "AssetFile": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\obj\\Debug\\net9.0\\compressed\\qk59m25ly4-gvzxxikb2o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008130081301"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zK1w1z19KNVglP7ZY+k7UWvlTSdWKogkheKQOSoDXAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 12:05:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gvzxxikb2o"
+        },
+        {
+          "Name": "label",
+          "Value": "data/competitors.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA="
+        }
+      ]
+    },
+    {
+      "Route": "data/competitors.gvzxxikb2o.json",
+      "AssetFile": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\data\\competitors.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 12:05:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gvzxxikb2o"
+        },
+        {
+          "Name": "label",
+          "Value": "data/competitors.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA="
+        }
+      ]
+    },
+    {
+      "Route": "data/competitors.gvzxxikb2o.json.gz",
+      "AssetFile": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\obj\\Debug\\net9.0\\compressed\\qk59m25ly4-gvzxxikb2o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zK1w1z19KNVglP7ZY+k7UWvlTSdWKogkheKQOSoDXAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 12:05:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gvzxxikb2o"
+        },
+        {
+          "Name": "label",
+          "Value": "data/competitors.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zK1w1z19KNVglP7ZY+k7UWvlTSdWKogkheKQOSoDXAA="
+        }
+      ]
+    },
+    {
+      "Route": "data/competitors.json",
+      "AssetFile": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\obj\\Debug\\net9.0\\compressed\\qk59m25ly4-gvzxxikb2o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008130081301"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zK1w1z19KNVglP7ZY+k7UWvlTSdWKogkheKQOSoDXAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 12:05:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA="
+        }
+      ]
+    },
+    {
+      "Route": "data/competitors.json",
+      "AssetFile": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\wwwroot\\data\\competitors.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 12:05:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3HxRRvIDehVOpcNcPU8DwPyyWy0Ead9LYlKl9eregeA="
+        }
+      ]
+    },
+    {
+      "Route": "data/competitors.json.gz",
+      "AssetFile": "C:\\Users\\nathh\\Documents\\GitHub\\DNet2\\BlazorServer\\obj\\Debug\\net9.0\\compressed\\qk59m25ly4-gvzxxikb2o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zK1w1z19KNVglP7ZY+k7UWvlTSdWKogkheKQOSoDXAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 12:05:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zK1w1z19KNVglP7ZY+k7UWvlTSdWKogkheKQOSoDXAA="
         }
       ]
     },
