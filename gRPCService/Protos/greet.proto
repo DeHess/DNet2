@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPCService";
+
+package greet;
+
+service Greeter {
+  rpc SayHello (HelloRequest) returns (HelloReply);
+  rpc GetCompetitors (CompetitorRequest) returns (CompetitorReply);
+}
+
+message HelloRequest {
+  string name = 1;
+}
+
+message HelloReply {
+  string message = 1;
+}
+
+message CompetitorRequest {}
+
+message CompetitorReply {
+  repeated Competitor competitors = 1;
+}
+
+message Competitor {
+  string name = 1;
+  string time = 2;
+}
