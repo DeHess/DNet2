@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using Grpc.Net.Client;
-using gRPCService;  // Make sure this matches your csharp_namespace in greet.proto
+using gRPCService;  
 
 namespace GrpcClient
 {
